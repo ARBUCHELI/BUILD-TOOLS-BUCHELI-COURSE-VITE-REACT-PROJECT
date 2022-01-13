@@ -113,3 +113,6 @@ npm run serve
 ```
 
 In this article, we discussed how to use Vite to quickly build your application and utilize its extensive plugin system. Next time you’re building a web app on your own, consider using Vite!
+
+## Take a look at the live project here:
+https://bucheli-web-build-tools-vite-react-project.netlify.app/
